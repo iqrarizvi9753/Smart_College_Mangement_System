@@ -1,1 +1,1 @@
-# Smart_College_Mangement_System
+# Smart_College_Management_System
